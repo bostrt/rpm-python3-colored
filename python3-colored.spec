@@ -8,7 +8,7 @@ Summary:	Very simple Python library for color and formatting in terminal.
 
 License:	GPLv3
 URL:		https://gitlab.com/dslackw/colored
-Source0:	https://gitlab.com/dslackw/colored/-/archive/${version}/colored-${version}.tar.gz
+Source0:	https://gitlab.com/dslackw/colored/-/archive/%{version}/colored-%{version}.tar.gz
 
 BuildRequires:	python3-devel
 
