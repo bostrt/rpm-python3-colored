@@ -29,7 +29,7 @@ of the displayed color, Xterm Name, Xterm Number and HEX.
 
 %files
 %doc README.rst docs
-%license COPYING
+%license LICENSE.txt
 %{python3_sitelib}/colored
 %{python3_sitelib}/colored-%{version}-py?.?.egg-info
 
